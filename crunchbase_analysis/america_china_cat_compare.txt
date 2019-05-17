@@ -1,0 +1,783 @@
+{'文化娱乐': 'Culture and Entertainment',
+'游戏': 'Games',
+'旅游': 'Travel',
+'教育': 'Education',
+'医疗健康': 'Health',
+'体育运动': 'Sports',
+'企业服务': 'Enterprise Services',
+'物流': 'Logistics',
+'农业': 'Agriculture',
+'电子商务': 'E-Commerce',
+'房产服务': 'Real Estate Services',
+'汽车交通': 'Cars and Transportation',
+'金融': 'Finance',
+'广告营销': 'Ads and Marketing',
+'工具软件': 'Utility Software',
+'社交网络': 'Social Networking',
+'硬件': 'Hardware',
+'本地生活': 'Home Life'}
+
+
+"文化娱乐" "游戏" "旅游" "教育" "医疗健康" "体育运动" "企业服务" "物流" "农业" "电子商务" "房产服务" "汽车交通" "金融" "广告营销" "工具软件" "社交网络" "硬件" "本地生活"
+
+{'旅游': ['Travel','Online Travel','Social Travel','Adventure Travel','Business Travelers','Travel & Tourism','Tourism'],
+'医疗健康': ['Health and Wellness','Health Care','Health Care Information Technology','Mobile Health','Health Diagnostics','Healthcare Services','Personal Health','mHealth','Health and Insurance','Electronic Health Records','Mobile Emergency&Health','Health Services Industry','Senior Health'],
+'社交网络':['Social Media','Social Network Media','Social Media Marketing','Private Social Networking'],
+'金融':['Finance','FinTech','Financial Services','Finance Technology','Personal Finance','Financial Exchanges'],
+'教育':['Education', 'EdTech'],
+'物流': ['Logistics'],
+'企业服务': ['Enterprise Software'],
+'房产服务': ['Real Estate'],
+'广告营销': ['Advertising', 'Sales and Marketing','Marketing Automation','Brand Marketing','Social Media Marketing','Internet Marketing','Email Marketing','App Marketing'],
+'电子商务': ['E-Commerce'],
+'体育运动':['Sports'],
+'硬件': ['Hardware + Software', 'Hardware'],
+'游戏': ['Games','Mobile Games','Social Games','Game'],
+'汽车交通': ['Cars','Transportation','Public Transportation']}
+
+['Mobile']
+['SaaS']
+['Big Data', 'Analytics', 'Big Data Analytics']
+
+Missing
+'文化娱乐': 'Culture and Entertainment',
+'农业': 'Agriculture',
+'工具软件': 'Utility Software',
+'本地生活': 'Home Life'
+
+19005
+('Mobile', 907,
+'Software', 863
+'E-Commerce', 524
+'SaaS', 412
+'Curated Web', 408
+'Enterprise Software', 398
+'Analytics', 367
+'Social Media', 365
+'Apps', 324
+'Education', 304
+'Finance', 287
+'Advertising', 259
+'Big Data', 256
+'Health and Wellness', 255
+'Internet', 223
+'Health Care', 223
+'Marketplaces', 219
+'Games', 175
+'Technology', 166
+'FinTech', 145
+'Cloud Computing', 142
+'Hardware + Software', 140
+'Fashion', 137
+'Biotechnology', 135
+'Video', 129
+'Travel', 117
+'Security', 116
+'Sales and Marketing', 110
+'Internet of Things', 108
+'Real Estate', 106
+'Startups', 102
+'Financial Services', 102
+'Digital Media', 101
+'Messaging', 101
+'Design', 100
+'Retail', 99
+'Android', 94
+'Big Data Analytics', 94
+'Medical', 94
+'EdTech', 92
+'Services', 92
+'Search', 92
+'Hospitality', 92
+'Sports', 88
+'Payments', 86
+'Media', 84
+'Social Network Media', 83
+'Photography', 83
+'Mobile Commerce', 82
+'News', 82
+'B2B', 82
+'Enterprises', 79
+'iOS', 73
+'Entertainment', 72
+'iPhone', 70
+'Human Resources', 70
+'Consumer Electronics', 69
+'Music', 69
+'Recruiting', 69
+'Health Care Information Technology', 69
+'Machine Learning', 68
+'Developer APIs', 68
+'Small and Medium Businesses', 67
+'Crowdsourcing', 67
+'Information Technology', 66
+'CRM', 65
+'Publishing', 64
+'Collaboration', 64
+'Location Based Services', 64
+'Manufacturing', 63
+'Social Commerce', 63
+'Predictive Analytics', 62
+'Real Time', 62
+'Events', 61
+'Bitcoin', 60
+'Business Intelligence', 58
+'Networking', 57
+'Productivity Software', 57
+'Transportation', 56
+'Web Development', 53
+'Marketing Automation', 53
+'Fitness', 53
+'Wearables', 53
+'Finance Technology', 52
+'Content', 51
+'Brand Marketing', 51
+'Consumer Goods', 50
+'Mobile Health', 50
+'Hardware', 47
+'Legal', 47
+'Social Media Marketing', 47
+'Clean Technology', 45
+'Databases', 45
+'Consumers', 45
+'Automotive', 44
+'Logistics', 43
+'Internet Marketing', 42
+'Mobile Payments', 42
+'Local', 42
+'Peer-to-Peer', 41
+'Kids', 40
+'Lifestyle', 40
+'Facebook Applications', 40
+'Parenting', 39
+'Crowdfunding', 39
+'Restaurants', 39
+'Email', 38
+'Data Visualization', 38
+'iPad', 37
+'Sensors', 36
+'Medical Devices', 36
+'Personalization', 35
+'Photo Sharing', 35
+'Cloud Data Services', 35
+'File Sharing', 35
+'Developer Tools', 34
+'Personal Finance', 34
+'Collaborative Consumption', 34
+'Mobile Games', 34
+'Business Services', 34
+'Web Tools', 33
+'Colleges', 33
+'Network Security', 32
+'Video Streaming', 32
+'Shopping', 32
+'Artificial Intelligence', 32
+'Customer Service', 32
+'Optimization', 31
+'Loyalty Programs', 31
+'Health Diagnostics', 31
+'Sales Automation', 30
+'Web Hosting', 30
+'Mobile Advertising', 30
+'Open Source', 29
+'Data Integration', 29
+'Service Providers', 29
+'Robotics', 29
+'Advertising Platforms', 29
+'Reviews and Recommendations', 28
+'Training', 28
+'Consulting', 28
+'Energy', 27
+'Home Automation', 27
+'Social Games', 27
+'Online Shopping', 26
+'Application Platforms', 26
+'PaaS', 26
+'Twitter Applications', 26
+'Energy Efficiency', 25
+'Telecommunications', 25
+'Cyber Security', 25
+'Agriculture', 25
+'Accounting', 25
+'Consumer Internet', 24
+'Beauty', 24
+'Market Research', 24
+'Shipping', 24
+'Mobile Software Tools', 24
+'Construction', 24
+'Retail Technology', 24
+'Wireless', 23
+'Nonprofits', 23
+'Career Management', 23
+'Development Platforms', 23
+'Computers', 23
+'3D', 23
+'Online Dating', 23
+'Communities', 23
+'Local Businesses', 22
+'Cars', 22
+'Ticketing', 22
+'3D Printing', 22
+'Audio', 22
+'Delivery', 22
+'Chat', 22
+'Incentives', 21
+'Public Relations', 21
+'Lead Generation', 21
+'SEO', 21
+'Healthcare Services', 21
+'Computer Vision', 21
+'Data Security', 21
+'Project Management', 21
+'Employment', 21
+'Personal Health', 20
+'Specialty Foods', 20
+'Email Marketing', 20
+'Public Transportation', 20
+'Bridging Online and Offline', 20
+'Information Services', 20
+'Online Travel', 20
+'Weddings', 20
+'Business Analytics', 20
+'Teachers', 20
+'Hotels', 20
+'Art', 20
+'Identity', 20
+'Gift Card', 19
+'Virtualization', 19
+'Trading', 19
+'mHealth', 19
+'Travel & Tourism', 18
+'Blogging Platforms', 18
+'Visualization', 18
+'Insurance', 18
+'Document Management', 18
+'Venture Capital', 18
+'Drones', 18
+'Language Learning', 18
+'Cloud Infrastructure', 18
+'Infrastructure', 18
+'Storage', 18
+'All Students', 17
+'Politics', 17
+'E-Commerce Platforms', 17
+'Organic Food', 17
+'Game', 17
+'Home & Garden', 17
+'Television', 17
+'Gamification', 17
+'Aerospace', 17
+'Pharmaceuticals', 17
+'Life Sciences', 17
+'Electronics', 16
+'SMS', 16
+'Hospitals', 16
+'Mobility', 16
+'Information Security', 16
+'Event Management', 16
+'Investment Management', 16
+'Fraud Detection', 16
+'Content Discovery', 16
+'Subscription Businesses', 15
+'Augmented Reality', 15
+'Supply Chain Management', 15
+'Maps', 15
+'Women', 15
+'Graphics', 15
+'Discounts', 15
+'Banking', 15
+'Sustainability', 15
+'Testing', 15
+'Creative', 15
+'Freelancers', 15
+'Data Mining', 14
+'Commercial Real Estate', 14
+'App Marketing', 14
+'Video Games', 14
+'Online Rental', 14
+'Concerts', 14
+'Cooking', 14
+'Film', 14
+'Tech Field Support', 14
+'Entrepreneur', 13
+'Communications Infrastructure', 13
+'User Experience Design', 13
+'K-12 Education', 13
+'Content Delivery', 13
+'Private Social Networking', 13
+'Educational Games', 13
+'Tracking', 13
+'Cloud Management', 13
+'Content Creators', 13
+'Virtual Currency', 13
+'Polling', 13
+'Mobile Devices', 13
+'Skill Assessment', 13
+'Energy Management', 13
+'Nutrition', 13
+'Web Design', 13
+'Tablets', 12
+'Product Design', 12
+'Semantic Search', 12
+'Coupons', 12
+'Privacy', 12
+'Diagnostics', 12
+'Property Management', 12
+'Social Search', 12
+'Mobile Security', 12
+'Surveys', 12
+'Green', 12
+'Doctors', 12
+'High Schools', 11
+'Food Processing', 11
+'Pets', 11
+'Customer Support Tools', 11
+'Mobile Shopping', 11
+'Furniture', 11
+'Natural Language Processing', 11
+'Credit', 11
+'Health and Insurance', 11
+'Groceries', 11
+'Innovation Management', 11
+'Business Productivity', 11
+'Online Scheduling', 11
+'Environmental Innovation', 11
+'Online Reservations', 11
+'Social Media Platforms', 11
+'3D Technology', 11
+'Tutoring', 11
+'Tourism', 11
+'Navigation', 11
+'Social Travel', 11
+'App Stores', 11
+'Clean Energy', 10
+'Cloud Security', 10
+'Local Search', 10
+'Social + Mobile + Local', 10
+'Ad Targeting', 10
+'Mobile Analytics', 10
+'Wine And Spirits', 10
+'Families', 10
+'Toys', 10
+'Identity Management', 10
+'CAD', 10
+'IaaS', 10
+'Presentations', 10
+'Utilities', 10
+'Employer Benefits Programs', 10
+'Journalism', 10
+'Printing', 10
+'Government Innovation', 10
+'Price Comparison', 9
+'Geospatial', 9
+'Local Advertising', 9
+'Social Media Monitoring', 9
+'Parking', 9
+'Image Recognition', 9
+'Social Bookmarking', 9
+'Business Development', 9
+'Credit Cards', 9
+'Home Renovation', 9
+'Meeting Software', 9
+'Universities', 9
+'Home Decor', 9
+'Embedded Hardware and Software', 9
+'Jewelry', 9
+'Digital Entertainment', 9
+'Point of Sale', 9
+'Physicians', 9
+'Outsourcing', 9
+'Mass Customization', 9
+'Recycling', 8
+'Knowledge Management', 8
+'Video Conferencing', 8
+'Governments', 8
+'Algorithms', 8
+'Risk Management', 8
+'Natural Resources', 8
+'Mobile Video', 8
+'Auto', 8
+'Monetization', 8
+'Mobile Social', 8
+'Therapeutics', 8
+'Distribution', 8
+'Mobile Enterprise', 8
+'Charity', 8
+'Digital Signage', 8
+'Product Development Services', 8
+'Translation', 8
+'DIY', 8
+'Online Video Advertising', 8
+'Social Fundraising', 8
+'Advice', 8
+'IT and Cybersecurity', 8
+'Local Commerce', 8
+'Senior Citizens', 8
+'Promotional', 8
+'IT Management', 8
+'E-Books', 8
+'Architecture', 8
+'Virtual Worlds', 8
+'Ediscovery', 8
+'Industrial', 8
+'Farming', 8
+'Professional Services', 7
+'Exercise', 7
+'Procurement', 7
+'Web CMS', 7
+'Solar', 7
+'Application Performance Monitoring', 7
+'Psychology', 7
+'Cannabis', 7
+'Oil & Gas', 7
+'Celebrity', 7
+'Electric Vehicles', 7
+'Medical Professionals', 7
+'Diabetes', 7
+'Opinions', 7
+'Corporate Training', 7
+'Enterprise Search', 7
+'Creative Industries', 7
+'Professional Networking', 7
+'Quantified Self', 7
+'Career Planning', 7
+'Collectibles', 7
+'Local Based Services', 7
+'Video Chat', 7
+'Specialty Retail', 7
+'Wholesale', 7
+'Adventure Travel', 6
+'Outdoors', 6
+'Renewable Energies', 6
+'Direct Marketing', 6
+'Gps', 6
+'Semantic Web', 6
+'Social News', 6
+'Indoor Positioning', 6
+'Photo Editing', 6
+'Non Profit', 6
+'Vacation Rentals', 6
+'Textbooks', 6
+'Bio-Pharm', 6
+'Offline Businesses', 6
+'Soccer', 6
+'Smart Building', 6
+'Rental Housing', 6
+'Sporting Goods', 6
+'Online Education', 6
+'Enterprise Security', 6
+'Online Gaming', 6
+'Social Media Advertising', 6
+'Broadcasting', 6
+'Billing', 6
+'Social Recruiting', 6
+'Nanotechnology', 6
+'Water', 6
+'Office Space', 6
+'Leisure', 6
+'Electronic Health Records', 6
+'Industrial Automation', 6
+'Biometrics', 6
+'Clinical Trials', 6
+'Match-Making', 6
+'Writers', 6
+'Ventures for Good', 5
+'Interface Design', 5
+'Bicycles', 5
+'Reputation', 5
+'New Product Development', 5
+'Social Buying', 5
+'Fantasy Sports', 5
+'Organic', 5
+'Contact Management', 5
+'Task Management', 5
+'All Markets', 5
+'Synchronization', 5
+'Cryptocurrency', 5
+'Financial Exchanges', 5
+'Social Media Management', 5
+'Mobile Emergency&Health', 5
+'Realtors', 5
+'Displays', 5
+'Child Care', 5
+'Guides', 5
+'Angels', 5
+'Entertainment Industry', 5
+'Data Centers', 5
+'Engineering Firms', 5
+'Content Syndication', 5
+'Social CRM', 5
+'Nightlife', 5
+'Social Television', 5
+'P2P Money Transfer', 5
+'Insurance Companies', 5
+'Electrical Distribution', 4
+'Humanitarian', 4
+'Residential Solar', 4
+'University Students', 4
+'Teenagers', 4
+'Interest Graph', 4
+'Genetic Testing', 4
+'Comparison Shopping', 4
+'Gadget', 4
+'Consumer Lending', 4
+'Software Compliance', 4
+'Postal and Courier Services', 4
+'Speech Recognition', 4
+'Text Analytics', 4
+'Internet Infrastructure', 4
+'Water Purification', 4
+'Early-Stage Technology', 4
+'Email Newsletters', 4
+'Shoes', 4
+'Subscription Service', 4
+'Innovation Engineering', 4
+'Auctions', 4
+'Charter Schools', 4
+'Neuroscience', 4
+'Public Safety', 4
+'Local Services', 4
+'Energy Storage', 4
+'Bioinformatics', 4
+'Interior Design', 4
+'Temporary Staffing', 4
+'Advertising Networks', 4
+'VoIP', 4
+'FreetoPlay Gaming', 4
+'Music Venues', 4
+'Internet Service Providers', 4
+'Wealth Management', 4
+'M2M', 4
+'Proximity Internet', 4
+'Chemicals', 4
+'Artists Globally', 4
+'Advanced Materials', 4
+'Brokers', 4
+'Oil', 4
+'Operating Systems', 4
+'Babies', 4
+'Taxis', 4
+'Incubators', 4
+'Human Computer Interaction', 4
+'Cloud Gaming', 4
+'Music Services', 4
+'Cosmetics', 4
+'Direct Sales', 4
+'Transaction Processing', 4
+'Distributors', 4
+'Product Search', 4
+'NFC', 4
+'Browser Extensions', 4
+'Stock Exchanges', 4
+'Google Apps', 4
+'Video on Demand', 4
+'Smart Grid', 4
+'Face Recognition', 3
+'Portals', 3
+'Flash Sales', 3
+'Unifed Communications', 3
+'Semiconductors', 3
+'Material Science', 3
+'Casual Games', 3
+'Business Information Systems', 3
+'Test and Measurement', 3
+'Flash Storage', 3
+'Self Storage', 3
+'Advertising Exchanges', 3
+'New Technologies', 3
+'Group Buying', 3
+'Google Glass', 3
+'Home Owners', 3
+'Video Game Tournaments', 3
+'Gas', 3
+'Online Identity', 3
+'Religion', 3
+'Flowers', 3
+'Lasers', 3
+'Licensing', 3
+'Film Production', 3
+'Field Support Services', 3
+'College Recruiting', 3
+'Coffee', 3
+'Productivity', 3
+'MMO Games', 3
+'Service Industries', 3
+'Human Resource Automation', 3
+'Social Entrepreneurship', 3
+'Data Center Infrastructure', 3
+'Lead Management', 3
+'Domains', 3
+'Dental', 3
+'Enterprise Resource Planning', 3
+'Oil and Gas', 3
+'Registrars', 3
+'Commodities', 3
+'Internet Radio Market', 2
+'Gay & Lesbian', 2
+'Enterprise 2.0', 2
+'Shipping Broker Industry', 2
+'Landscaping', 2
+'Sponsorship', 2
+'Gift Registries', 2
+'Enterprise Purchasing', 2
+'Franchises', 2
+'Air Pollution Control', 2
+'Unmanned Air Systems', 2
+'Lighting', 2
+'Intelligent Systems', 2
+'Intellectual Property', 2
+'Green Building', 2
+'Experience Design', 2
+'Labor Optimization', 2
+'Telephony', 2
+'iPod Touch', 2
+'Rapidly Expanding', 2
+'Elder Care', 2
+'Pervasive Computing', 2
+'Real Estate Investors', 2
+'Defense', 2
+'Social Innovation', 2
+'Console Gaming', 2
+'Impact Investing', 2
+'Logistics Company', 2
+'Watch', 2
+'Communications Hardware', 2
+'Video Editing', 2
+'Homeland Security', 2
+'Law Enforcement', 2
+'Boating Industry', 2
+'Fertility', 2
+'Retirement', 2
+'Simulation', 2
+'Shared Services', 2
+'Visual Search', 2
+'RFID', 2
+'Trusted Networks', 2
+'Edutainment', 2
+'Mac', 2
+'Emerging Markets', 2
+'Ride Sharing', 2
+'Mechanical Solutions', 2
+'Staffing Firms', 2
+'Gambling', 2
+'GreenTech', 2
+'Freemium', 2
+'SexTech', 2
+'Nightclubs', 2
+'Plumbers', 2
+'QR Codes', 2
+'Coworking', 2
+'PC Gaming', 2
+'MicroBlogging', 2
+'Assisitive Technology', 2
+'Internet TV', 2
+'Technical Continuing Education', 2
+'Deep Information Technology', 2
+'Commercial Solar', 2
+'Veterinary', 2
+'Kinect', 2
+'Specialty Chemicals', 2
+'Q&A', 2
+'Systems', 2
+'DOD/Military', 2
+'Private School', 2
+'Dietary Supplements', 2
+'Personal Data', 2
+'Governance', 2
+'Mining Technologies', 2
+'Forums', 2
+'Virtual Workforces', 2
+'Personal Branding', 2
+'Consumer Behavior', 2
+'Energy IT', 2
+'Young Adults', 2
+'Search Marketing', 2
+'Music Education', 2
+'Recipes', 2
+'English-Speaking', 2
+'Data Center Automation', 2
+'Direct Advertising', 2
+'Mobile Infrastructure', 2
+'Batteries', 2
+'User Interface', 1
+'Lifestyle Businesses', 1
+'Virtual Goods', 1
+'Musical Instruments', 1
+'Carbon', 1
+'Cyber', 1
+'Heavy Industry', 1
+'FPGA', 1
+'Archiving', 1
+'Medication Adherence', 1
+'User Testing', 1
+'Farmers Market', 1
+'Windows Phone 7', 1
+'Eyewear', 1
+'Social Investing', 1
+'Remediation', 1
+'Web Presence Management', 1
+'Health Services Industry', 1
+'Prediction Markets', 1
+'Industrial Energy Efficiency', 1
+'Social Media Agent', 1
+'Renewable Tech', 1
+'Performance Marketing', 1
+'College Campuses', 1
+'Fleet Management', 1
+'Homeless Shelter', 1
+'Infrastructure Builders', 1
+'Senior Health', 1
+'Hedge Funds', 1
+'EBooks', 1
+'Local Coupons', 1
+'Baby Accessories', 1
+'TV Production', 1
+'Business Travelers', 1
+'Certification Test', 1
+'Active Lifestyle', 1
+'Linux', 1
+'General Public Worldwide', 1
+'Limousines', 1
+'Skate Wear', 1
+'Demographies', 1
+'Green Consumer Goods', 1
+'Alternative Medicine', 1
+'Usability', 1
+'High School Students', 1
+'Self Development', 1
+'Social Business', 1
+'Contests', 1
+'Custom Retail', 1
+'Vertical Search', 1
+'Timeshares', 1
+'Film Distribution', 1
+'Mobile Coupons', 1
+'Video Processing', 1
+'Handmade', 1
+'App Discovery', 1
+'Designers', 1
+'Alumni', 1
+'Comics', 1
+'Aquaculture', 1
+'Hunting Industry', 1
+'Building Products', 1
+'Digital Rights Management', 1
+'Baby Safety', 1
+'Social Opinion Platform', 1
+'Contact Centers', 1
+'Classifieds', 1
+'Enterprise Application', 1
+'Golf Equipment', 1
+'High Tech', 1
+'Lifestyle Products', 1
+'Micro-Enterprises', 1
+'SNS', 1
+'Optical Communications', 1
+'Tea', 1
+'Virtual Desktop', 1
+'Wind', 1
+'Mens Specific', 1
+'Mothers', 1
+'Waste Management', 1
+'Sports Stadiums', 1
+'Estimation and Quoting', 1
